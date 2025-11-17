@@ -1,7 +1,7 @@
 
 function Destination() {
   return (
-    <div>Destination</div>
+    <div>Destinationxx</div>
   )
 }
 
